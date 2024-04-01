@@ -1,2 +1,10 @@
 
-/** ADD YOUR AWESOME CODES HERE **/
+.maps{
+    justify-content: center;
+    display: flex;
+    
+}
+
+iframe {
+    border-radius: 30px;
+}
